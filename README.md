@@ -69,10 +69,10 @@ Les instructions d’installation de chaque partie se trouveront dans son propre
 
 | Rôle | Périmètre |
 |---|---|
-| Développeur 1 | Agent de sauvegarde et backend |
-| Développeur 2 | Frontend et pages de restauration |
-| Infrastructure 1 | À compléter |
-| Infrastructure 2 | À compléter |
+| Charlotte | Agent de sauvegarde et backend |
+| Akram     | Frontend et pages de restauration |
+| Paul      | À compléter |
+| Erwann    | À compléter |
 
 ---
 
